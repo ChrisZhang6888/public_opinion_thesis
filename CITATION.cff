@@ -1,0 +1,15 @@
+
+cff-version: 1.2.0
+title: 'Twitter Public Opinion Thesis '
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Chris '
+    family-names: 'Zhang '
+    email: cz24@uchicago.edu
+    affiliation: 'University of Chicago '
+repository-code: >-
+  https://github.com/ChrisZhang6888/public_opinion_thesis.git
+
